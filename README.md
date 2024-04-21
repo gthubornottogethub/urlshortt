@@ -7,3 +7,7 @@ This is a simple web app with minimal frontend (literally a single page) that us
 
 The key tool that made this project possible is [nanoid](https://www.npmjs.com/package/nanoid). When the user enter their url, say a terribly long link from an arab news website, nanoid generates what is called a "slug". A link combining the app's own domain with that slug is displayed to the user as an output, when it's clicked, it redirects to the intended page. 
 
+# How to Run
+
+Just run the console, navigate to the directory and run:
+> npm run dev
