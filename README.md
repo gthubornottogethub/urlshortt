@@ -9,5 +9,10 @@ The key tool that made this project possible is [nanoid](https://www.npmjs.com/p
 
 # How to Run
 
-Just run the console, navigate to the directory and run:
+Just navigate to the directory and run:
 > npm run dev
+
+# Notes 
+
+1. Beware of the note in the app page: you have to specify the protocol with the url, for example: htttps://google.com 
+2. I will host the project soon 
