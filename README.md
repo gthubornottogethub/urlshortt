@@ -16,3 +16,5 @@ Just navigate to the directory and run:
 
 1. Beware of the note in the app page: you have to specify the protocol with the url, for example: htttps://google.com 
 2. I will host the project soon 
+
+Also shoutout [CodingGarden](https://www.youtube.com/@CodingGarden), this proejct was basically me following one of his coding challenges. 
